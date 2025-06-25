@@ -1,0 +1,8 @@
+streamlit>=1.29.0
+tensorflow==1.15
+mtcnn
+opencv-python
+joblib
+scikit-learn
+Pillow
+numpy
