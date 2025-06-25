@@ -1,8 +1,9 @@
 streamlit>=1.29.0
-tensorflow==1.15
-mtcnn
+tensorflow==2.10.0
 opencv-python
-joblib
+mtcnn
 scikit-learn
-Pillow
+joblib
 numpy
+pandas
+Pillow
